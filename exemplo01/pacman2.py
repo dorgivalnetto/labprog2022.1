@@ -1,5 +1,5 @@
 import pygame
-
+#aula 10/11/2022
 pygame.init()
 
 tela = pygame.display.set_mode((800, 600), 0)
